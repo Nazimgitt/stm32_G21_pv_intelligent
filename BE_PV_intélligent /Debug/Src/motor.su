@@ -1,0 +1,3 @@
+motor.c:12:6:run_nrml	24	static
+motor.c:95:6:run_inv	24	static
+motor.c:178:6:run_stepm	8	static

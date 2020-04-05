@@ -1,0 +1,12 @@
+SI1145.c:13:9:ReadByte	40	static
+SI1145.c:25:6:WriteByte	24	static
+SI1145.c:86:10:ReadHalfWord	48	static
+SI1145.c:103:9:ReadParamData	8	static
+SI1145.c:112:9:WriteParamData	16	static
+SI1145.c:38:6:DeInit	8	static
+SI1145.c:124:6:ADDR_Data	8	static
+SI1145.c:134:8:Reset	8	static
+SI1145.c:151:7:Begin	8	static
+SI1145.c:169:11:ReadVisible	8	static
+SI1145.c:177:11:ReadIR	8	static
+SI1145.c:187:10:ReadUV	8	static
