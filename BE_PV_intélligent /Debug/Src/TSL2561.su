@@ -1,8 +1,0 @@
-TSL2561.c:20:9:readRegister	40	static
-TSL2561.c:30:6:writeRegister	24	static
-TSL2561.c:40:6:getLux	24	static
-TSL2561.c:53:6:init_light	8	static
-TSL2561.c:63:10:readIRLuminosity	16	static
-TSL2561.c:82:10:readFSpecLuminosity	8	static
-TSL2561.c:118:15:calculateLux	24	static
-TSL2561.c:100:13:readVisibleLux	8	static
